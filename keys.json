@@ -702,9 +702,11 @@
     "createdAt": 1774510353076
   },
   "ATH-OAGK-M368": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-eocparzx9j"
+    ],
     "expireAt": 1776931041145,
     "createdAt": 1774511841145
   },
