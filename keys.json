@@ -71,5 +71,12 @@
     ],
     "expireAt": 10414414914084,
     "createdAt": 1774501314084
+  },
+  "HFT-SD8FDSBF9J": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 10414414967068,
+    "createdAt": 1774501367068
   }
 }
