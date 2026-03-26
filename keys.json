@@ -620,5 +620,12 @@
     ],
     "expireAt": 10414430523760,
     "createdAt": 1774516923760
+  },
+  "ATH-KOK0-6YI5": {
+    "usesLeft": 50,
+    "totalDevices": 50,
+    "devices": [],
+    "expireAt": 1777109353045,
+    "createdAt": 1774517353046
   }
 }
