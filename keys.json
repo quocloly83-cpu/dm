@@ -746,9 +746,11 @@
     "createdAt": 1774522892036
   },
   "ATH-GFQ5-TT0E": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-z7d90fu6bn"
+    ],
     "expireAt": 10414440324105,
     "createdAt": 1774526724105
   }
