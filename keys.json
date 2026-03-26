@@ -1,8 +1,10 @@
 {
   "ATH-Q13P-YBQU": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-eiiay7ysrp"
+    ],
     "expireAt": 1775450196358,
     "createdAt": 1774499796358
   }
