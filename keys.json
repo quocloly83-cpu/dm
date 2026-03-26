@@ -47,9 +47,11 @@
     "createdAt": 1774501149883
   },
   "HFT-OAK8QSUP": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-fd9t95pb3t"
+    ],
     "expireAt": 1774587610819,
     "createdAt": 1774501210819
   }
