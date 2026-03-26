@@ -382,5 +382,12 @@
     ],
     "expireAt": 10414415040409,
     "createdAt": 1774501440409
+  },
+  "ATH-1D0E-TF1F": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 2638420221080,
+    "createdAt": 1774506621080
   }
 }
