@@ -30,7 +30,7 @@
     "createdAt": 1774500745658
   },
   "ATH-YPQK-N5KL": {
-    "usesLeft": 202,
+    "usesLeft": 200,
     "totalDevices": 600,
     "devices": [
       "web-h8tl1h4g1n",
@@ -430,7 +430,9 @@
       "web-webvvv6q1p",
       "web-4dfhrh8did",
       "web-aeltbe5cl6",
-      "web-odagzac8io"
+      "web-odagzac8io",
+      "web-sd4gi0y6v7",
+      "web-9u6kozbbqp"
     ],
     "expireAt": 1774587179358,
     "createdAt": 1774500779358
@@ -515,5 +517,12 @@
     ],
     "expireAt": 2638423953076,
     "createdAt": 1774510353076
+  },
+  "ATH-OAGK-M368": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 1776931041145,
+    "createdAt": 1774511841145
   }
 }
