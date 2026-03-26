@@ -14,5 +14,12 @@
     "devices": [],
     "expireAt": 1775450342808,
     "createdAt": 1774499942808
+  },
+  "ATH-KADH-DSOR": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 1777092069483,
+    "createdAt": 1774500069483
   }
 }
