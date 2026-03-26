@@ -45,5 +45,12 @@
     "devices": [],
     "expireAt": 10414414749883,
     "createdAt": 1774501149883
+  },
+  "HFT-OAK8QSUP": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 1774587610819,
+    "createdAt": 1774501210819
   }
 }
