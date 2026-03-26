@@ -91,5 +91,12 @@
     "devices": [],
     "expireAt": 10414414986004,
     "createdAt": 1774501386004
+  },
+  "ATH-0UX6-58XKO": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 10414415040409,
+    "createdAt": 1774501440409
   }
 }
