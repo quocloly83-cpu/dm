@@ -30,7 +30,7 @@
     "createdAt": 1774500745658
   },
   "ATH-YPQK-N5KL": {
-    "usesLeft": 358,
+    "usesLeft": 357,
     "totalDevices": 600,
     "devices": [
       "web-h8tl1h4g1n",
@@ -274,7 +274,8 @@
       "web-pqg84bp6ac",
       "web-ktt46whqyj",
       "web-4eemzye5gv",
-      "web-gqe16t7vo6"
+      "web-gqe16t7vo6",
+      "web-8sxs6xaodf"
     ],
     "expireAt": 1774587179358,
     "createdAt": 1774500779358
