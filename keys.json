@@ -38,5 +38,12 @@
     ],
     "expireAt": 1774587179358,
     "createdAt": 1774500779358
+  },
+  "HFT-VIP2DEV-02": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 10414414749883,
+    "createdAt": 1774501149883
   }
 }
