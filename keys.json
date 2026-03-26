@@ -764,9 +764,11 @@
     "createdAt": 1774528677214
   },
   "ATH-JYTX-R5N0": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-4w5m55tcmz"
+    ],
     "expireAt": 10414448641678,
     "createdAt": 1774535041679
   }
