@@ -600,5 +600,12 @@
     "devices": [],
     "expireAt": 1776931041145,
     "createdAt": 1774511841145
+  },
+  "ATH-O9ZC-A1QY": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 10414430523760,
+    "createdAt": 1774516923760
   }
 }
