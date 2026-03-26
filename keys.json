@@ -755,9 +755,11 @@
     "createdAt": 1774526724105
   },
   "ATH-57HU-HSR5": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-uat5fs77q5"
+    ],
     "expireAt": 88174442277214,
     "createdAt": 1774528677214
   }
