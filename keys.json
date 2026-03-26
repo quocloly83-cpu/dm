@@ -742,5 +742,12 @@
     "devices": [],
     "expireAt": 1777109353045,
     "createdAt": 1774517353046
+  },
+  "ATH-77WT-PFA6": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 88174435304905,
+    "createdAt": 1774521704905
   }
 }
