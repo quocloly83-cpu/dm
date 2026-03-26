@@ -603,9 +603,11 @@
     "createdAt": 1774511841145
   },
   "ATH-O9ZC-A1QY": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-9u6kozbbqp"
+    ],
     "expireAt": 10414430523760,
     "createdAt": 1774516923760
   }
