@@ -64,9 +64,11 @@
     "createdAt": 1774501210819
   },
   "ATH-0UX6-58XH": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-uicxbnrxw0"
+    ],
     "expireAt": 10414414914084,
     "createdAt": 1774501314084
   }
