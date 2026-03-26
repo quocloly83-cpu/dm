@@ -28,5 +28,12 @@
     "devices": [],
     "expireAt": 1777092745658,
     "createdAt": 1774500745658
+  },
+  "ATH-YPQK-N5KL": {
+    "usesLeft": 600,
+    "totalDevices": 600,
+    "devices": [],
+    "expireAt": 1774587179358,
+    "createdAt": 1774500779358
   }
 }
