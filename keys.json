@@ -81,5 +81,12 @@
     "devices": [],
     "expireAt": 10414414967068,
     "createdAt": 1774501367068
+  },
+  "ATH-TCDO-P0FF": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 10414414986004,
+    "createdAt": 1774501386004
   }
 }
