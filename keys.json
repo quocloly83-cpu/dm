@@ -1540,9 +1540,11 @@
     "createdAt": 1774621067783
   },
   "huanhatoichoinecon": {
-    "usesLeft": 500000,
+    "usesLeft": 499999,
     "totalDevices": 500000,
-    "devices": [],
+    "devices": [
+      "web-2c6hw5x67h"
+    ],
     "expireAt": 1776349277048,
     "createdAt": 1774621277048
   }
