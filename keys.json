@@ -782,7 +782,7 @@
     "createdAt": 1774578995375
   },
   "HFT-8UQW5FKE": {
-    "usesLeft": 653,
+    "usesLeft": 652,
     "totalDevices": 700,
     "devices": [
       "web-fnakgsiqzq",
@@ -831,7 +831,8 @@
       "web-1h3eci3i7j",
       "web-2p7v4zt1pr",
       "web-jm2kag9gep",
-      "web-f69f01xxg3"
+      "web-f69f01xxg3",
+      "web-ausph91rzu"
     ],
     "expireAt": 1774671275100,
     "createdAt": 1774584875100
