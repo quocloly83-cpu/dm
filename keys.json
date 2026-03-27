@@ -1536,9 +1536,11 @@
     "createdAt": 1774620477974
   },
   "ATH-V6K2-EI7P": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-ynhixdoa0u"
+    ],
     "expireAt": 1776348508302,
     "createdAt": 1774620508302
   }
