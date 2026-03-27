@@ -1531,9 +1531,11 @@
     "createdAt": 1774620508302
   },
   "ATH-3LKF-G5OO": {
-    "usesLeft": 50,
+    "usesLeft": 49,
     "totalDevices": 50,
-    "devices": [],
+    "devices": [
+      "web-h8tl1h4g1n"
+    ],
     "expireAt": 1777213067783,
     "createdAt": 1774621067783
   }
