@@ -1520,5 +1520,12 @@
     "devices": [],
     "expireAt": 1777212147296,
     "createdAt": 1774620147296
+  },
+  "tiktok:havanhuanvn_love": {
+    "usesLeft": 50,
+    "totalDevices": 50,
+    "devices": [],
+    "expireAt": 1777212177672,
+    "createdAt": 1774620177672
   }
 }
