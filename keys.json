@@ -1543,5 +1543,12 @@
     ],
     "expireAt": 865774603515282,
     "createdAt": 1774689915282
+  },
+  "ATH-5JFZ-JN07": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 1777284588845,
+    "createdAt": 1774692588845
   }
 }
