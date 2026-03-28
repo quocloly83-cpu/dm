@@ -1554,9 +1554,11 @@
     "createdAt": 1774692588845
   },
   "KK": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-eglm7oegcr"
+    ],
     "expireAt": 1777310851242,
     "createdAt": 1774718851242
   }
