@@ -1534,5 +1534,12 @@
     ],
     "expireAt": 10414597592722,
     "createdAt": 1774683992722
+  },
+  "ATH-9GFK-46NE": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 865774603515282,
+    "createdAt": 1774689915282
   }
 }
