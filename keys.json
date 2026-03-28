@@ -1564,9 +1564,11 @@
     "createdAt": 1774718851242
   },
   "HFT-3DAYREAPP": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-t6j39ikjau"
+    ],
     "expireAt": 1777312250504,
     "createdAt": 1774720250504
   }
