@@ -1562,5 +1562,12 @@
     ],
     "expireAt": 1777310851242,
     "createdAt": 1774718851242
+  },
+  "HFT-3DAYREAPP": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 1777312250504,
+    "createdAt": 1774720250504
   }
 }
