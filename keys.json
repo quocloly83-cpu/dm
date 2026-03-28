@@ -1532,5 +1532,12 @@
     "devices": [],
     "expireAt": 1774933070733,
     "createdAt": 1774673870733
+  },
+  "ATH-YSFL-00LQ": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 10414597592722,
+    "createdAt": 1774683992722
   }
 }
