@@ -1886,5 +1886,12 @@
     ],
     "expireAt": 10414676949370,
     "createdAt": 1774763349370
+  },
+  "ATH-U6M7-RJIO": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 10414678124880,
+    "createdAt": 1774764524880
   }
 }
