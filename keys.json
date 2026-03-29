@@ -174,9 +174,11 @@
     "createdAt": 1774535041679
   },
   "ATH-D3EB-0X6R": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-776pbs3zp8"
+    ],
     "expireAt": 10414713952814,
     "createdAt": 1774800352815
   },
