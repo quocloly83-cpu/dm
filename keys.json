@@ -1840,9 +1840,11 @@
     "createdAt": 1774762824032
   },
   "HFT-K6AS": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-ny4283kvjp"
+    ],
     "expireAt": 10414676949370,
     "createdAt": 1774763349370
   }
