@@ -1837,5 +1837,12 @@
     "devices": [],
     "expireAt": 10414676424032,
     "createdAt": 1774762824032
+  },
+  "HFT-K6AS": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 10414676949370,
+    "createdAt": 1774763349370
   }
 }
