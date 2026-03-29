@@ -298,7 +298,7 @@
     "expireAt": 88174663764445,
     "createdAt": 1774750164445
   },
- "ATH-2WEQ-ROJG": {
+  "ATH-2WEQ-ROJG": {
     "usesLeft": 0,
     "totalDevices": 1,
     "devices": [
@@ -332,5 +332,12 @@
     ],
     "expireAt": 10414678124880,
     "createdAt": 1774764524880
+  },
+  "HFT-2DK8QQ": {
+    "usesLeft": 700,
+    "totalDevices": 700,
+    "devices": [],
+    "expireAt": 1774952542049,
+    "createdAt": 1774779742052
   }
 }
