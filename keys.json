@@ -9,9 +9,11 @@
     "createdAt": 1774499796358
   },
   "ATH-F6MM-UO20": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-95u29c7a82"
+    ],
     "expireAt": 1775450342808,
     "createdAt": 1774499942808
   },
