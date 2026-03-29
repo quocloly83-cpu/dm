@@ -983,9 +983,11 @@
     "createdAt": 1774785120169
   },
   "ATH-HDMC-HCOB": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-0ae18gxple"
+    ],
     "expireAt": 10414706515767,
     "createdAt": 1774792915767
   }
