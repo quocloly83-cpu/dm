@@ -174,13 +174,11 @@
     "createdAt": 1774535041679
   },
   "ATH-D3EB-0X6R": {
-    "usesLeft": 0,
-    "totalDevices": 1,
-    "devices": [
-      "web-3nd1lbrxpa"
-    ],
-    "expireAt": 10414492595374,
-    "createdAt": 1774578995375
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 10414713952814,
+    "createdAt": 1774800352815
   },
   "HFT-8UQW5FKE": {
     "usesLeft": 0,
