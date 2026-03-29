@@ -680,10 +680,11 @@
     "createdAt": 1774779742052
   },
   "ATH-LL1S-PKJR": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 2,
     "devices": [
-      "web-l501x0wfm8"
+      "web-l501x0wfm8",
+      "web-95u29c7a82"
     ],
     "expireAt": 865774698720169,
     "createdAt": 1774785120169
