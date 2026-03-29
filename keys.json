@@ -659,5 +659,12 @@
     ],
     "expireAt": 1774952542049,
     "createdAt": 1774779742052
+  },
+  "ATH-LL1S-PKJR": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 865774698720169,
+    "createdAt": 1774785120169
   }
 }
