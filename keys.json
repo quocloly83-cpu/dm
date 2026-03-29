@@ -334,7 +334,7 @@
     "createdAt": 1774764524880
   },
   "HFT-2DK8QQ": {
-    "usesLeft": 55,
+    "usesLeft": 54,
     "totalDevices": 700,
     "devices": [
       "web-95u29c7a82",
@@ -981,7 +981,8 @@
       "web-ly3ro27qm3",
       "web-pfwjx69hbh",
       "web-k91krn4hiw",
-      "web-lls9afdym7"
+      "web-lls9afdym7",
+      "web-bswjv6aneb"
     ],
     "expireAt": 1774952542049,
     "createdAt": 1774779742052
