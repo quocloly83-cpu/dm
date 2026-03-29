@@ -980,5 +980,12 @@
     ],
     "expireAt": 865774698720169,
     "createdAt": 1774785120169
+  },
+  "ATH-HDMC-HCOB": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 10414706515767,
+    "createdAt": 1774792915767
   }
 }
