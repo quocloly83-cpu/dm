@@ -1601,7 +1601,7 @@
     "createdAt": 1774750164445
   },
   "HFT-K3D800MQ": {
-    "usesLeft": 654,
+    "usesLeft": 666,
     "totalDevices": 800,
     "devices": [
       "web-eglm7oegcr",
@@ -1736,29 +1736,10 @@
       "web-oa8kbdlna2",
       "web-fbj48njlx3",
       "web-1swld4nfof",
-      "web-k9ziw9evr0",
-      "web-bm626vpy9i",
-      "web-y1yqb19mm7",
       "web-z8zh1u56ts",
-      "web-uu64yvwkmz",
-      "web-v9zi9n2erd",
-      "web-x5bm9zxh4d",
-      "web-63xhiehksa",
-      "web-jezhwlw4nv",
-      "web-vvezd12a3e",
-      "web-0399abhczu",
-      "web-o9gw74jpve",
-      "web-m66otlogve",
-      "web-b1mmnx3k6g"
+      "web-8f5arzb40h"
     ],
     "expireAt": 1775015836975,
     "createdAt": 1774756636975
-  },
-  "ATH-2WEQ-ROJG": {
-    "usesLeft": 1,
-    "totalDevices": 1,
-    "devices": [],
-    "expireAt": 1777353680753,
-    "createdAt": 1774761680753
   }
 }
