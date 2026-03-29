@@ -1889,9 +1889,11 @@
     "createdAt": 1774763349370
   },
   "ATH-U6M7-RJIO": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-tfzzm42b8b"
+    ],
     "expireAt": 10414678124880,
     "createdAt": 1774764524880
   }
