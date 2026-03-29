@@ -1599,5 +1599,12 @@
     ],
     "expireAt": 88174663764445,
     "createdAt": 1774750164445
+  },
+  "HFT-K3D800MQ": {
+    "usesLeft": 800,
+    "totalDevices": 800,
+    "devices": [],
+    "expireAt": 1775015836975,
+    "createdAt": 1774756636975
   }
 }
