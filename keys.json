@@ -1601,7 +1601,7 @@
     "createdAt": 1774750164445
   },
   "HFT-K3D800MQ": {
-    "usesLeft": 615,
+    "usesLeft": 614,
     "totalDevices": 800,
     "devices": [
       "web-eglm7oegcr",
@@ -1788,7 +1788,8 @@
       "web-kya85pjmrk",
       "web-c2nv9pdk2e",
       "web-oq0a715bux",
-      "web-nq4fs2x40c"
+      "web-nq4fs2x40c",
+      "web-jo74l8exdc"
     ],
     "expireAt": 1775015836975,
     "createdAt": 1774756636975
