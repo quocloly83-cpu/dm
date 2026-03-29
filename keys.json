@@ -1591,9 +1591,11 @@
     "createdAt": 1774749193565
   },
   "ATH-RIX5-LUUP": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-xxwxwb1pur"
+    ],
     "expireAt": 88174663764445,
     "createdAt": 1774750164445
   }
