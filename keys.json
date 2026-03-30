@@ -1062,7 +1062,7 @@
     "createdAt": 1774792915767
   },
   "NTH-43AKDOJ9": {
-    "usesLeft": 356,
+    "usesLeft": 355,
     "totalDevices": 400,
     "devices": [
       "web-eglm7oegcr",
@@ -1108,7 +1108,8 @@
       "web-h8tl1h4g1n",
       "web-v6jc7p9u7e",
       "web-z28p6zf2u7",
-      "web-rp3w4nj77y"
+      "web-rp3w4nj77y",
+      "web-5v38qnbtsp"
     ],
     "expireAt": 1774930002204,
     "createdAt": 1774843602205
