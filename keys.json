@@ -1230,9 +1230,11 @@
     "createdAt": 1774843602205
   },
   "ATH-PD6F-8PUP": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-zrxf0j8lep"
+    ],
     "expireAt": 865774783850298,
     "createdAt": 1774870250298
   }
