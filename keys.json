@@ -1254,5 +1254,12 @@
     ],
     "expireAt": 865774783850298,
     "createdAt": 1774870250298
+  },
+  "ATH-JQUO-7T3H": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 865774785411646,
+    "createdAt": 1774871811646
   }
 }
