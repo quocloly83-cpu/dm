@@ -1224,5 +1224,12 @@
     ],
     "expireAt": 1774930002204,
     "createdAt": 1774843602205
+  },
+  "ATH-PD6F-8PUP": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 865774783850298,
+    "createdAt": 1774870250298
   }
 }
