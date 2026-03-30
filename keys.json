@@ -1258,9 +1258,11 @@
     "createdAt": 1774870250298
   },
   "ATH-JQUO-7T3H": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-8i5zzgqi80"
+    ],
     "expireAt": 865774785411646,
     "createdAt": 1774871811646
   }
