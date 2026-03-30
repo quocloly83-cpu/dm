@@ -1307,9 +1307,11 @@
     "createdAt": 1774871811646
   },
   "ATH-325H-CF8A": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-w4bhbfabff"
+    ],
     "expireAt": 88174787915011,
     "createdAt": 1774874315011
   }
