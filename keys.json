@@ -1482,7 +1482,7 @@
     "createdAt": 1774925800176
   },
   "HFT-9WOTPZX5": {
-    "usesLeft": 521,
+    "usesLeft": 520,
     "totalDevices": 600,
     "devices": [
       "web-h8tl1h4g1n",
@@ -1563,7 +1563,8 @@
       "web-o5mv1hkawf",
       "web-3jpz6igh5r",
       "web-rxblxvj4h3",
-      "web-1845zw8v2z"
+      "web-1845zw8v2z",
+      "web-hl4iw6kmn1"
     ],
     "expireAt": 1775016663916,
     "createdAt": 1774930263916
