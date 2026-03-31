@@ -1908,9 +1908,11 @@
     "createdAt": 1774930263916
   },
   "ATH-5FIO-MPDX": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-9vemyqcwto"
+    ],
     "expireAt": 10414865554169,
     "createdAt": 1774951954169
   }
