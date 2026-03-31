@@ -86,9 +86,11 @@
     "createdAt": 1774501440409
   },
   "ATH-1D0E-TF1F": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-9qqy6c2of9"
+    ],
     "expireAt": 10414846481046,
     "createdAt": 1774932881046
   },
