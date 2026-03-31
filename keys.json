@@ -1497,5 +1497,12 @@
     ],
     "expireAt": 88174787915011,
     "createdAt": 1774874315011
+  },
+  "ATH-N5UG-63AK": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 1775012200160,
+    "createdAt": 1774925800176
   }
 }
