@@ -1905,5 +1905,12 @@
     ],
     "expireAt": 1775016663916,
     "createdAt": 1774930263916
+  },
+  "ATH-5FIO-MPDX": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 10414865554169,
+    "createdAt": 1774951954169
   }
 }
