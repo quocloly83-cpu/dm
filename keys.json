@@ -2969,9 +2969,11 @@
     "createdAt": 1775058684708
   },
   "ATH-S93X-ZKQR": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-eglm7oegcr"
+    ],
     "expireAt": 1777650691570,
     "createdAt": 1775058691570
   }
