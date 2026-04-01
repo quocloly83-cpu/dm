@@ -2101,7 +2101,7 @@
     "createdAt": 1774951954169
   },
   "HFT-K850XQPR": {
-    "usesLeft": 297,
+    "usesLeft": 296,
     "totalDevices": 850,
     "devices": [
       "web-eglm7oegcr",
@@ -2656,7 +2656,8 @@
       "web-5lmg5akn2y",
       "web-g1xud7quvn",
       "web-z8mhznhvqf",
-      "web-bzmr70ljs4"
+      "web-bzmr70ljs4",
+      "web-xr043y5udy"
     ],
     "expireAt": 1775188750050,
     "createdAt": 1775015950051
