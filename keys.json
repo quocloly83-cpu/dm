@@ -1,4 +1,11 @@
 {
+  "99999999": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 1777657240441,
+    "createdAt": 1775065240441
+  },
   "ATH-Q13P-YBQU": {
     "usesLeft": 0,
     "totalDevices": 1,
