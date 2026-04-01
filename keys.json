@@ -2099,5 +2099,12 @@
     ],
     "expireAt": 10414865554169,
     "createdAt": 1774951954169
+  },
+  "HFT-K850XQPR": {
+    "usesLeft": 850,
+    "totalDevices": 850,
+    "devices": [],
+    "expireAt": 1775188750050,
+    "createdAt": 1775015950051
   }
 }
