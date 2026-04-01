@@ -2959,10 +2959,11 @@
     "createdAt": 1775015950051
   },
   "ATH-7HVQ-NHDL": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 2,
     "devices": [
-      "web-boehf2xnmp"
+      "web-boehf2xnmp",
+      "web-wpvx7ga6r6"
     ],
     "expireAt": 86401774972284700,
     "createdAt": 1775058684708
