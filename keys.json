@@ -6,7 +6,19 @@
       "web-95u29c7a82"
     ],
     "expireAt": 1777657240441,
-    "createdAt": 1775065240441
+    "createdAt": 1775065240441,
+    "deviceStates": {
+      "web-95u29c7a82": {
+        "f1": false,
+        "f2": false,
+        "f3": false,
+        "f4": false,
+        "f5": false,
+        "f6": false,
+        "f7": false,
+        "sensi": "60"
+      }
+    }
   },
   "ATH-Q13P-YBQU": {
     "usesLeft": 0,
@@ -15,7 +27,8 @@
       "web-eiiay7ysrp"
     ],
     "expireAt": 1775450196358,
-    "createdAt": 1774499796358
+    "createdAt": 1774499796358,
+    "deviceStates": {}
   },
   "ATH-F6MM-UO20": {
     "usesLeft": 0,
@@ -24,21 +37,24 @@
       "web-95u29c7a82"
     ],
     "expireAt": 1775450342808,
-    "createdAt": 1774499942808
+    "createdAt": 1774499942808,
+    "deviceStates": {}
   },
   "ATH-KADH-DSOR": {
     "usesLeft": 1,
     "totalDevices": 1,
     "devices": [],
     "expireAt": 1777092069483,
-    "createdAt": 1774500069483
+    "createdAt": 1774500069483,
+    "deviceStates": {}
   },
   "ATH-YPQK-N5KL": {
     "usesLeft": 0,
     "totalDevices": 600,
     "devices": [],
     "expireAt": 1774587179358,
-    "createdAt": 1774500779358
+    "createdAt": 1774500779358,
+    "deviceStates": {}
   },
   "HFT-VIP2DEV-02": {
     "usesLeft": 0,
@@ -47,7 +63,8 @@
       "web-6cutz43yc8"
     ],
     "expireAt": 10414414749883,
-    "createdAt": 1774501149883
+    "createdAt": 1774501149883,
+    "deviceStates": {}
   },
   "HFT-OAK8QSUP": {
     "usesLeft": 0,
@@ -56,7 +73,8 @@
       "web-fd9t95pb3t"
     ],
     "expireAt": 1774587610819,
-    "createdAt": 1774501210819
+    "createdAt": 1774501210819,
+    "deviceStates": {}
   },
   "ATH-0UX6-58XH": {
     "usesLeft": 0,
@@ -65,7 +83,8 @@
       "web-uicxbnrxw0"
     ],
     "expireAt": 10414414914084,
-    "createdAt": 1774501314084
+    "createdAt": 1774501314084,
+    "deviceStates": {}
   },
   "HFT-SD8FDSBF9J": {
     "usesLeft": 0,
@@ -74,7 +93,8 @@
       "web-6p79gggwsn"
     ],
     "expireAt": 10414414967068,
-    "createdAt": 1774501367068
+    "createdAt": 1774501367068,
+    "deviceStates": {}
   },
   "ATH-TCDO-P0FF": {
     "usesLeft": 0,
@@ -83,7 +103,8 @@
       "web-2od99dspxs"
     ],
     "expireAt": 10414414986004,
-    "createdAt": 1774501386004
+    "createdAt": 1774501386004,
+    "deviceStates": {}
   },
   "ATH-0UX6-58XKO": {
     "usesLeft": 0,
@@ -92,7 +113,8 @@
       "web-n9lktrpyqb"
     ],
     "expireAt": 10414415040409,
-    "createdAt": 1774501440409
+    "createdAt": 1774501440409,
+    "deviceStates": {}
   },
   "ATH-1D0E-TF1F": {
     "usesLeft": 1,
@@ -101,7 +123,8 @@
       "web-9qqy6c2of9"
     ],
     "expireAt": 10414846481046,
-    "createdAt": 1774932881046
+    "createdAt": 1774932881046,
+    "deviceStates": {}
   },
   "ATH-T0S4-7JJP": {
     "usesLeft": 0,
@@ -110,7 +133,8 @@
       "web-ks582s59o7"
     ],
     "expireAt": 10414420891781,
-    "createdAt": 1774507291781
+    "createdAt": 1774507291781,
+    "deviceStates": {}
   },
   "HFT-VIP2DEV-01": {
     "usesLeft": 0,
@@ -119,7 +143,8 @@
       "web-npzq8ibrhn"
     ],
     "expireAt": 2638423953076,
-    "createdAt": 1774510353076
+    "createdAt": 1774510353076,
+    "deviceStates": {}
   },
   "ATH-OAGK-M368": {
     "usesLeft": 0,
@@ -128,7 +153,8 @@
       "web-ac9d2timfb"
     ],
     "expireAt": 1776919925862,
-    "createdAt": 1774587125862
+    "createdAt": 1774587125862,
+    "deviceStates": {}
   },
   "ATH-77WT-PFA6": {
     "usesLeft": 0,
@@ -137,7 +163,8 @@
       "web-xag0dw3c1t"
     ],
     "expireAt": 88174435304905,
-    "createdAt": 1774521704905
+    "createdAt": 1774521704905,
+    "deviceStates": {}
   },
   "ATH-8ST3-2D0X": {
     "usesLeft": 0,
@@ -146,7 +173,8 @@
       "web-6al8scd0wi"
     ],
     "expireAt": 88174436492036,
-    "createdAt": 1774522892036
+    "createdAt": 1774522892036,
+    "deviceStates": {}
   },
   "ATH-GFQ5-TT0E": {
     "usesLeft": 0,
@@ -155,7 +183,8 @@
       "web-z7d90fu6bn"
     ],
     "expireAt": 10414440324105,
-    "createdAt": 1774526724105
+    "createdAt": 1774526724105,
+    "deviceStates": {}
   },
   "ATH-57HU-HSR5": {
     "usesLeft": 0,
@@ -164,7 +193,8 @@
       "web-uat5fs77q5"
     ],
     "expireAt": 88174442277214,
-    "createdAt": 1774528677214
+    "createdAt": 1774528677214,
+    "deviceStates": {}
   },
   "ATH-JYTX-R5N0": {
     "usesLeft": 0,
@@ -173,7 +203,8 @@
       "web-4w5m55tcmz"
     ],
     "expireAt": 10414448641678,
-    "createdAt": 1774535041679
+    "createdAt": 1774535041679,
+    "deviceStates": {}
   },
   "ATH-D3EB-0X6R": {
     "usesLeft": 0,
@@ -183,14 +214,16 @@
       "web-6hacuqzkuj"
     ],
     "expireAt": 10414713952814,
-    "createdAt": 1774800352815
+    "createdAt": 1774800352815,
+    "deviceStates": {}
   },
   "HFT-8UQW5FKE": {
     "usesLeft": 0,
     "totalDevices": 700,
     "devices": [],
     "expireAt": 1774671275100,
-    "createdAt": 1774584875100
+    "createdAt": 1774584875100,
+    "deviceStates": {}
   },
   "ATH-PVMI-W1GG": {
     "usesLeft": 0,
@@ -199,7 +232,8 @@
       "web-z8kd2ya3qd"
     ],
     "expireAt": 2638519966612,
-    "createdAt": 1774606366617
+    "createdAt": 1774606366617,
+    "deviceStates": {}
   },
   "ATH-QKXQ-0DLQ": {
     "usesLeft": 0,
@@ -208,7 +242,8 @@
       "web-d14g99vg7t"
     ],
     "expireAt": 10414521440832,
-    "createdAt": 1774607840832
+    "createdAt": 1774607840832,
+    "deviceStates": {}
   },
   "ATH-V6K2-EI7P": {
     "usesLeft": 0,
@@ -217,7 +252,8 @@
       "web-ynhixdoa0u"
     ],
     "expireAt": 1776348508302,
-    "createdAt": 1774620508302
+    "createdAt": 1774620508302,
+    "deviceStates": {}
   },
   "ATH-3RXL-2DHG": {
     "usesLeft": 48,
@@ -227,7 +263,8 @@
       "web-h8tl1h4g1n"
     ],
     "expireAt": 1777213718126,
-    "createdAt": 1774621718126
+    "createdAt": 1774621718126,
+    "deviceStates": {}
   },
   "ATH-YSFL-00LQ": {
     "usesLeft": 0,
@@ -236,7 +273,8 @@
       "web-s6cevxralx"
     ],
     "expireAt": 10414597592722,
-    "createdAt": 1774683992722
+    "createdAt": 1774683992722,
+    "deviceStates": {}
   },
   "ATH-9GFK-46NE": {
     "usesLeft": 0,
@@ -245,7 +283,8 @@
       "web-kt0jivg4d7"
     ],
     "expireAt": 865774603515282,
-    "createdAt": 1774689915282
+    "createdAt": 1774689915282,
+    "deviceStates": {}
   },
   "ATH-5JFZ-JN07": {
     "usesLeft": 0,
@@ -254,7 +293,8 @@
       "web-eglm7oegcr"
     ],
     "expireAt": 1777284588845,
-    "createdAt": 1774692588845
+    "createdAt": 1774692588845,
+    "deviceStates": {}
   },
   "HFT-3DAYREAPP": {
     "usesLeft": 0,
@@ -263,7 +303,8 @@
       "web-t6j39ikjau"
     ],
     "expireAt": 1777312250504,
-    "createdAt": 1774720250504
+    "createdAt": 1774720250504,
+    "deviceStates": {}
   },
   "ATH-8Q2R-7QQO": {
     "usesLeft": 0,
@@ -272,7 +313,8 @@
       "web-95geynfhy4"
     ],
     "expireAt": 10414662793565,
-    "createdAt": 1774749193565
+    "createdAt": 1774749193565,
+    "deviceStates": {}
   },
   "ATH-RIX5-LUUP": {
     "usesLeft": 0,
@@ -282,7 +324,8 @@
       "web-95u29c7a82"
     ],
     "expireAt": 88174663764445,
-    "createdAt": 1774750164445
+    "createdAt": 1774750164445,
+    "deviceStates": {}
   },
   "ATH-2WEQ-ROJG": {
     "usesLeft": 0,
@@ -291,14 +334,16 @@
       "web-h8tl1h4g1n"
     ],
     "expireAt": 1777353680753,
-    "createdAt": 1774761680753
+    "createdAt": 1774761680753,
+    "deviceStates": {}
   },
   "ATH-21GE-B7WB": {
     "usesLeft": 1,
     "totalDevices": 1,
     "devices": [],
     "expireAt": 10414676424032,
-    "createdAt": 1774762824032
+    "createdAt": 1774762824032,
+    "deviceStates": {}
   },
   "HFT-K6AS": {
     "usesLeft": 0,
@@ -308,7 +353,8 @@
       "web-95u29c7a82"
     ],
     "expireAt": 10414676949370,
-    "createdAt": 1774763349370
+    "createdAt": 1774763349370,
+    "deviceStates": {}
   },
   "ATH-U6M7-RJIO": {
     "usesLeft": 1,
@@ -317,7 +363,8 @@
       "web-tfzzm42b8b"
     ],
     "expireAt": 10414678124880,
-    "createdAt": 1774764524880
+    "createdAt": 1774764524880,
+    "deviceStates": {}
   },
   "HFT-2DK8QQ": {
     "usesLeft": 0,
@@ -1025,7 +1072,8 @@
       "web-xzyvo9tb06"
     ],
     "expireAt": 1774952542049,
-    "createdAt": 1774779742052
+    "createdAt": 1774779742052,
+    "deviceStates": {}
   },
   "ATH-LL1S-PKJR": {
     "usesLeft": 0,
@@ -1035,7 +1083,8 @@
       "web-95u29c7a82"
     ],
     "expireAt": 865774698720169,
-    "createdAt": 1774785120169
+    "createdAt": 1774785120169,
+    "deviceStates": {}
   },
   "ATH-HDMC-HCOB": {
     "usesLeft": 0,
@@ -1045,7 +1094,8 @@
       "web-95u29c7a82"
     ],
     "expireAt": 10414706515767,
-    "createdAt": 1774792915767
+    "createdAt": 1774792915767,
+    "deviceStates": {}
   },
   "NTH-43AKDOJ9": {
     "usesLeft": 0,
@@ -1453,7 +1503,8 @@
       "web-adarvjc99e"
     ],
     "expireAt": 1774930002204,
-    "createdAt": 1774843602205
+    "createdAt": 1774843602205,
+    "deviceStates": {}
   },
   "ATH-PD6F-8PUP": {
     "usesLeft": 0,
@@ -1463,7 +1514,8 @@
       "web-6dtqc6gprh"
     ],
     "expireAt": 865774783850298,
-    "createdAt": 1774870250298
+    "createdAt": 1774870250298,
+    "deviceStates": {}
   },
   "ATH-JQUO-7T3H": {
     "usesLeft": 1,
@@ -1472,7 +1524,8 @@
       "web-8i5zzgqi80"
     ],
     "expireAt": 865774785411646,
-    "createdAt": 1774871811646
+    "createdAt": 1774871811646,
+    "deviceStates": {}
   },
   "ATH-325H-CF8A": {
     "usesLeft": 1,
@@ -1481,7 +1534,8 @@
       "web-w4bhbfabff"
     ],
     "expireAt": 88174787915011,
-    "createdAt": 1774874315011
+    "createdAt": 1774874315011,
+    "deviceStates": {}
   },
   "ATH-N5UG-63AK": {
     "usesLeft": 0,
@@ -1490,7 +1544,8 @@
       "web-zd2fwyhdt3"
     ],
     "expireAt": 1775012200160,
-    "createdAt": 1774925800176
+    "createdAt": 1774925800176,
+    "deviceStates": {}
   },
   "HFT-9WOTPZX5": {
     "usesLeft": 0,
@@ -2098,7 +2153,8 @@
       "web-pzvlt0uwls"
     ],
     "expireAt": 1775016663916,
-    "createdAt": 1774930263916
+    "createdAt": 1774930263916,
+    "deviceStates": {}
   },
   "ATH-5FIO-MPDX": {
     "usesLeft": 1,
@@ -2107,7 +2163,8 @@
       "web-9vemyqcwto"
     ],
     "expireAt": 10414865554169,
-    "createdAt": 1774951954169
+    "createdAt": 1774951954169,
+    "deviceStates": {}
   },
   "HFT-K850XQPR": {
     "usesLeft": 0,
@@ -2965,7 +3022,8 @@
       "web-c9p4wuts9w"
     ],
     "expireAt": 1775188750050,
-    "createdAt": 1775015950051
+    "createdAt": 1775015950051,
+    "deviceStates": {}
   },
   "ATH-7HVQ-NHDL": {
     "usesLeft": 0,
@@ -2975,7 +3033,8 @@
       "web-wpvx7ga6r6"
     ],
     "expireAt": 86401774972284700,
-    "createdAt": 1775058684708
+    "createdAt": 1775058684708,
+    "deviceStates": {}
   },
   "ATH-S93X-ZKQR": {
     "usesLeft": 1,
@@ -2984,6 +3043,7 @@
       "web-eglm7oegcr"
     ],
     "expireAt": 1777650691570,
-    "createdAt": 1775058691570
+    "createdAt": 1775058691570,
+    "deviceStates": {}
   }
 }
