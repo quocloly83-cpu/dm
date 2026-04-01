@@ -2964,5 +2964,12 @@
     "devices": [],
     "expireAt": 86401774972284700,
     "createdAt": 1775058684708
+  },
+  "ATH-S93X-ZKQR": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 1777650691570,
+    "createdAt": 1775058691570
   }
 }
