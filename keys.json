@@ -3023,7 +3023,18 @@
     ],
     "expireAt": 1775188750050,
     "createdAt": 1775015950051,
-    "deviceStates": {}
+    "deviceStates": {
+      "web-1nxzvcwe3y": {
+        "f1": false,
+        "f2": false,
+        "f3": false,
+        "f4": false,
+        "f5": false,
+        "f6": false,
+        "f7": false,
+        "sensi": "60"
+      }
+    }
   },
   "ATH-7HVQ-NHDL": {
     "usesLeft": 0,
