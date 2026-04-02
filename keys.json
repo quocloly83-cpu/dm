@@ -3645,9 +3645,11 @@
     "createdAt": 1775130715798
   },
   "ATH-SLB2-PDUU": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-0xw32kplsj"
+    ],
     "expireAt": 10415048745879,
     "createdAt": 1775135145879
   }
