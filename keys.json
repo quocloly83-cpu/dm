@@ -3594,9 +3594,11 @@
     "createdAt": 1775129310228
   },
   "ATH-J8CL-910F": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-6uf44kpe6f"
+    ],
     "expireAt": 88175044315798,
     "createdAt": 1775130715798
   }
