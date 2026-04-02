@@ -3283,10 +3283,11 @@
     "createdAt": 1775104846979
   },
   "ATH-EHH4-Q79Y": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 2,
     "devices": [
-      "web-h3cgdx7jmb"
+      "web-h3cgdx7jmb",
+      "web-95u29c7a82"
     ],
     "expireAt": 88175021353856,
     "createdAt": 1775107753856
