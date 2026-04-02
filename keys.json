@@ -3643,5 +3643,12 @@
     ],
     "expireAt": 88175044315798,
     "createdAt": 1775130715798
+  },
+  "ATH-SLB2-PDUU": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 10415048745879,
+    "createdAt": 1775135145879
   }
 }
