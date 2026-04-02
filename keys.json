@@ -3056,5 +3056,12 @@
     "expireAt": 1777650691570,
     "createdAt": 1775058691570,
     "deviceStates": {}
+  },
+  "HFT-99ADFBS4": {
+    "usesLeft": 550,
+    "totalDevices": 550,
+    "devices": [],
+    "expireAt": 1775191246978,
+    "createdAt": 1775104846979
   }
 }
