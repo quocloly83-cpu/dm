@@ -3655,9 +3655,11 @@
     "createdAt": 1775135145879
   },
   "ATH-X1ES-Q4PE": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-9s8a1wwa1t"
+    ],
     "expireAt": 88175065343421,
     "createdAt": 1775151743422
   }
