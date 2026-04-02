@@ -3058,7 +3058,7 @@
     "deviceStates": {}
   },
   "HFT-99ADFBS4": {
-    "usesLeft": 396,
+    "usesLeft": 395,
     "totalDevices": 550,
     "devices": [
       "web-s69ij738za",
@@ -3214,7 +3214,8 @@
       "web-fgllbbvzdg",
       "web-auo72r3w7a",
       "web-liz4vl6p4q",
-      "web-5p6h9dokk5"
+      "web-5p6h9dokk5",
+      "web-stnrq417pj"
     ],
     "expireAt": 1775191246978,
     "createdAt": 1775104846979
