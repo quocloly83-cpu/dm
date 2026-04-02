@@ -3545,9 +3545,11 @@
     "createdAt": 1775107753856
   },
   "LYTOAN": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-eglm7oegcr"
+    ],
     "expireAt": 1777721310228,
     "createdAt": 1775129310228
   }
