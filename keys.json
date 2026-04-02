@@ -3160,9 +3160,11 @@
     "createdAt": 1775104846979
   },
   "ATH-EHH4-Q79Y": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-h3cgdx7jmb"
+    ],
     "expireAt": 88175021353856,
     "createdAt": 1775107753856
   }
