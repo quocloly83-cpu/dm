@@ -4483,9 +4483,11 @@
     "createdAt": 1775196066732
   },
   "ATH-8BPE-5ZJZ": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-9vyvc1xx87"
+    ],
     "expireAt": 88175124917660,
     "createdAt": 1775211317661
   }
