@@ -1528,10 +1528,11 @@
     "deviceStates": {}
   },
   "ATH-325H-CF8A": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 2,
     "devices": [
-      "web-w4bhbfabff"
+      "web-w4bhbfabff",
+      "web-70x7zelsrd"
     ],
     "expireAt": 88174787915011,
     "createdAt": 1774874315011,
