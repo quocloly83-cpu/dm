@@ -4491,5 +4491,12 @@
     ],
     "expireAt": 88175124917660,
     "createdAt": 1775211317661
+  },
+  "ATH-663C-MYR6": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 8641775137122581,
+    "createdAt": 1775223522603
   }
 }
