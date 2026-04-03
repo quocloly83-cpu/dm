@@ -3665,7 +3665,7 @@
     "createdAt": 1775151743422
   },
   "HFT-HUYTAN4QP": {
-    "usesLeft": 224,
+    "usesLeft": 223,
     "totalDevices": 800,
     "devices": [
       "web-eglm7oegcr",
@@ -4243,7 +4243,8 @@
       "web-qsltdlph96",
       "web-wp07p32ib0",
       "web-atkahg9hje",
-      "web-k7jgt7x9dh"
+      "web-k7jgt7x9dh",
+      "web-qjxze18rcx"
     ],
     "expireAt": 1775363075413,
     "createdAt": 1775190275413
