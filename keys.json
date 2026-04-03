@@ -4141,9 +4141,11 @@
     "createdAt": 1775190275413
   },
   "ATH-MPZ4-9BNF": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-3nguy0s5sl"
+    ],
     "expireAt": 10415109666732,
     "createdAt": 1775196066732
   }
