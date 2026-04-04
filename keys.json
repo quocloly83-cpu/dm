@@ -5328,5 +5328,12 @@
     ],
     "expireAt": 10415216540223,
     "createdAt": 1775302940223
+  },
+  "ATH-YVH0-SZ2N": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 86401775257992960,
+    "createdAt": 1775344392963
   }
 }
