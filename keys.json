@@ -4601,9 +4601,11 @@
     "createdAt": 1775277186179
   },
   "ATH-ZUDB-EMN9": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-dz9vw8ela6"
+    ],
     "expireAt": 88175192176795,
     "createdAt": 1775278576795
   }
