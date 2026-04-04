@@ -4567,5 +4567,12 @@
     ],
     "expireAt": 1775536386178,
     "createdAt": 1775277186179
+  },
+  "ATH-ZUDB-EMN9": {
+    "usesLeft": 2,
+    "totalDevices": 2,
+    "devices": [],
+    "expireAt": 88175192176795,
+    "createdAt": 1775278576795
   }
 }
