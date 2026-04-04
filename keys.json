@@ -5330,9 +5330,11 @@
     "createdAt": 1775302940223
   },
   "ATH-YVH0-SZ2N": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-0zalz32har"
+    ],
     "expireAt": 86401775257992960,
     "createdAt": 1775344392963
   }
