@@ -4502,7 +4502,7 @@
     "createdAt": 1775223522603
   },
   "HUY-9KOAQTNG": {
-    "usesLeft": 659,
+    "usesLeft": 658,
     "totalDevices": 800,
     "devices": [
       "web-zvllawqfh4",
@@ -4645,7 +4645,8 @@
       "web-brnf3mjgo5",
       "web-she28ixtb3",
       "web-mgz7qvwwvo",
-      "web-1lew8h1615"
+      "web-1lew8h1615",
+      "web-od8da8zbhs"
     ],
     "expireAt": 1775536386178,
     "createdAt": 1775277186179
