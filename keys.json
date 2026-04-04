@@ -5156,9 +5156,11 @@
     "createdAt": 1775278576795
   },
   "ATH-KIL8-HVF3": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-c4gle6km8o"
+    ],
     "expireAt": 10415216540223,
     "createdAt": 1775302940223
   }
