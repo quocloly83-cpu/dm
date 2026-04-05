@@ -5340,7 +5340,7 @@
     "createdAt": 1775344392963
   },
   "HUY-TQ83TANGN": {
-    "usesLeft": 577,
+    "usesLeft": 576,
     "totalDevices": 666,
     "devices": [
       "web-lkb37hxvyh",
@@ -5431,7 +5431,8 @@
       "web-8vrxecwhr1",
       "web-p55jyvo2gn",
       "web-ipaevwsuqt",
-      "web-dtm0wwgviy"
+      "web-dtm0wwgviy",
+      "web-s343vtalnm"
     ],
     "expireAt": 1775535906450,
     "createdAt": 1775363106450
