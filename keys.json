@@ -33846,7 +33846,7 @@
     }
   },
   "HUY-EPXTNGAN2": {
-    "usesLeft": 131,
+    "usesLeft": 130,
     "totalDevices": 600,
     "devices": [
       "web-eglm7oegcr",
@@ -34317,7 +34317,8 @@
       "web-cu10jjinsi",
       "web-a44ixammzc",
       "web-h8tl1h4g1n",
-      "web-n12cs699s4"
+      "web-n12cs699s4",
+      "web-re6jeugo4t"
     ],
     "expireAt": 1775621034414,
     "createdAt": 1775448234414,
@@ -37135,6 +37136,12 @@
         "userAgent": "Dalvik/2.1.0 (Linux; U; Android 14; 22101320I Build/UKQ1.231003.002)",
         "firstSeenAt": 1775491603560,
         "lastSeenAt": 1775491603560
+      },
+      "web-re6jeugo4t": {
+        "platform": "ios",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.7.5 Mobile/15E148 Safari/604.1",
+        "firstSeenAt": 1775492356043,
+        "lastSeenAt": 1775492356043
       }
     }
   }
