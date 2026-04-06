@@ -33846,7 +33846,7 @@
     }
   },
   "HUY-EPXTNGAN2": {
-    "usesLeft": 132,
+    "usesLeft": 131,
     "totalDevices": 600,
     "devices": [
       "web-eglm7oegcr",
@@ -34316,7 +34316,8 @@
       "web-cx2hulw53c",
       "web-cu10jjinsi",
       "web-a44ixammzc",
-      "web-h8tl1h4g1n"
+      "web-h8tl1h4g1n",
+      "web-n12cs699s4"
     ],
     "expireAt": 1775621034414,
     "createdAt": 1775448234414,
@@ -37128,6 +37129,12 @@
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "firstSeenAt": 1775490898451,
         "lastSeenAt": 1775490898451
+      },
+      "web-n12cs699s4": {
+        "platform": "android",
+        "userAgent": "Dalvik/2.1.0 (Linux; U; Android 14; 22101320I Build/UKQ1.231003.002)",
+        "firstSeenAt": 1775491603560,
+        "lastSeenAt": 1775491603560
       }
     }
   }
