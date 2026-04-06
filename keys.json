@@ -5742,12 +5742,5 @@
     ],
     "expireAt": 1775621034414,
     "createdAt": 1775448234414
-  },
-  "ATH-LI3D-FS0D": {
-    "usesLeft": 50,
-    "totalDevices": 50,
-    "devices": [],
-    "expireAt": 1778085085907,
-    "createdAt": 1775493087764
   }
 }
