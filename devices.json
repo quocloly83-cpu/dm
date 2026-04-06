@@ -28011,10 +28011,10 @@
       "lastSeenAt": 1775490898386
     },
     "web-iihhl05e8": {
-      "platform": "other",
-      "userAgent": "",
+      "platform": "android",
+      "userAgent": "Dalvik/2.1.0 (Linux; U; Android 13; V2058 Build/TP1A.220624.014)",
       "firstSeenAt": 1775490898386,
-      "lastSeenAt": 1775490898386
+      "lastSeenAt": 1775493065067
     },
     "web-oa6hmui09v": {
       "platform": "other",
