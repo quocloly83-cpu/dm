@@ -5745,9 +5745,11 @@
     "createdAt": 1775448234414
   },
   "ATH-W2ZO-IYB4": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-h8tl1h4g1n"
+    ],
     "expireAt": 1778085589274,
     "createdAt": 1775493589274
   }
