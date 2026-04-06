@@ -6014,12 +6014,13 @@
     "createdAt": 1775363106450
   },
   "HUY-EPXTNGAN2": {
-    "usesLeft": 597,
+    "usesLeft": 596,
     "totalDevices": 600,
     "devices": [
       "web-eglm7oegcr",
       "web-lybltaafxq",
-      "web-u8vhmumvl3"
+      "web-u8vhmumvl3",
+      "web-bvyopf42oe"
     ],
     "expireAt": 1775621034414,
     "createdAt": 1775448234414
