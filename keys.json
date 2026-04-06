@@ -6014,7 +6014,7 @@
     "createdAt": 1775363106450
   },
   "HUY-EPXTNGAN2": {
-    "usesLeft": 397,
+    "usesLeft": 396,
     "totalDevices": 600,
     "devices": [
       "web-eglm7oegcr",
@@ -6219,7 +6219,8 @@
       "web-26byfnyxo7",
       "web-ng60n6t2dm",
       "web-2bwxbfc83f",
-      "web-zvjyuh2xoh"
+      "web-zvjyuh2xoh",
+      "web-m5hss2g5e2"
     ],
     "expireAt": 1775621034414,
     "createdAt": 1775448234414
