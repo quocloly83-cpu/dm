@@ -5883,9 +5883,11 @@
     "createdAt": 1775493589274
   },
   "ATH-WPII-FXXL": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-6yxwkm0fda"
+    ],
     "expireAt": 865775479696953,
     "createdAt": 1775566096953
   }
