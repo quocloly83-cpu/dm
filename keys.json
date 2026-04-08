@@ -4849,7 +4849,7 @@
     "createdAt": 1775625466515
   },
   "HFT-YDFRE8": {
-    "usesLeft": 273,
+    "usesLeft": 272,
     "totalDevices": 300,
     "devices": [
       "web-y3gopmkd9q",
@@ -4878,7 +4878,8 @@
       "web-snm0fg9klx",
       "web-2rqq3k317r",
       "web-p244ts9pci",
-      "web-kytzb0uxwn"
+      "web-kytzb0uxwn",
+      "web-2jv4w62232"
     ],
     "expireAt": 1775728380581,
     "createdAt": 1775641980581
