@@ -362,9 +362,7 @@
   "NTH-43AKDOJ9": {
     "usesLeft": 0,
     "totalDevices": 400,
-    "devices": [
-     
-    ],
+    "devices": [],
     "expireAt": 1774930002204,
     "createdAt": 1774843602205
   },
@@ -409,9 +407,7 @@
   "HFT-9WOTPZX5": {
     "usesLeft": 0,
     "totalDevices": 600,
-    "devices": [
-
-    ],
+    "devices": [],
     "expireAt": 1775016663916,
     "createdAt": 1774930263916
   },
@@ -427,9 +423,7 @@
   "HFT-K850XQPR": {
     "usesLeft": 0,
     "totalDevices": 850,
-    "devices": [
-    
-    ],
+    "devices": [],
     "expireAt": 1775188750050,
     "createdAt": 1775015950051,
     "deviceStates": {
