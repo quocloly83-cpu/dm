@@ -98,9 +98,11 @@
     "createdAt": 1774501386004
   },
   "ATH-0UX6-58XKO": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-g9wr29g5f8"
+    ],
     "expireAt": 10415547817863,
     "createdAt": 1775634217863
   },
