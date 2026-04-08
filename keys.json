@@ -6050,13 +6050,14 @@
     "createdAt": 1775624296902
   },
   "ILOVEYOU": {
-    "usesLeft": 496,
+    "usesLeft": 495,
     "totalDevices": 500,
     "devices": [
       "web-b45y7qdyyi",
       "web-lysdjkr225",
       "web-3ckfztg9o4",
-      "web-99zaurlwae"
+      "web-99zaurlwae",
+      "web-0abrgo7u5a"
     ],
     "expireAt": 1775971066515,
     "createdAt": 1775625466515
