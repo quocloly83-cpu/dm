@@ -5890,5 +5890,12 @@
     ],
     "expireAt": 865775479696953,
     "createdAt": 1775566096953
+  },
+  "HUY-FANTATIKTOK": {
+    "usesLeft": 500,
+    "totalDevices": 500,
+    "devices": [],
+    "expireAt": 1775794996700,
+    "createdAt": 1775622196700
   }
 }
