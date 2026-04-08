@@ -4897,9 +4897,11 @@
     "createdAt": 1775641980581
   },
   "ATH-3RCN-I3F7": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 2,
-    "devices": [],
+    "devices": [
+      "web-i82cdzoter"
+    ],
     "expireAt": 1775750209855,
     "createdAt": 1775663809855
   }
