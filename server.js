@@ -2073,7 +2073,7 @@ const server = app.listen(PORT, "0.0.0.0", () => {
   console.log("Server chạy tại port " + PORT);
   initStore()
     .then(() => {
-      console.log("Init store hoàn tất");
+      console.log("Ivlmm");
     })
     .catch((err) => {
       console.error("Init store lỗi:", err && err.stack ? err.stack : err);
