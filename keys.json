@@ -5892,7 +5892,7 @@
     "createdAt": 1775566096953
   },
   "HUY-FANTATIKTOK": {
-    "usesLeft": 152,
+    "usesLeft": 151,
     "totalDevices": 600,
     "devices": [
       "web-lybltaafxq",
@@ -6342,7 +6342,8 @@
       "web-37c98vawpj",
       "web-gcfwprdvca",
       "web-z8ip905hx2",
-      "web-5n6hxmlput"
+      "web-5n6hxmlput",
+      "web-pamx936z53"
     ],
     "expireAt": 1775797096902,
     "createdAt": 1775624296902
