@@ -4844,13 +4844,13 @@
       "web-ya9d7qlc9u",
       "web-5lzhofixqb",
       "web-xvv74wkp9t",
-      "web-ls1yqmu3p7"
+      "web-j8th9f9ukl"
     ],
     "expireAt": 1775971066515,
     "createdAt": 1775625466515
   },
   "HFT-YDFRE8": {
-    "usesLeft": 272,
+    "usesLeft": 273,
     "totalDevices": 300,
     "devices": [
       "web-y3gopmkd9q",
@@ -4879,8 +4879,7 @@
       "web-snm0fg9klx",
       "web-2rqq3k317r",
       "web-p244ts9pci",
-      "web-kytzb0uxwn",
-      "web-2jv4w62232"
+      "web-kytzb0uxwn"
     ],
     "expireAt": 1775728380581,
     "createdAt": 1775641980581
