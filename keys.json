@@ -6027,5 +6027,12 @@
     ],
     "expireAt": 1775797096902,
     "createdAt": 1775624296902
+  },
+  "ILOVEYOU": {
+    "usesLeft": 500,
+    "totalDevices": 500,
+    "devices": [],
+    "expireAt": 1775971066515,
+    "createdAt": 1775625466515
   }
 }
