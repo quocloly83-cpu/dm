@@ -1223,7 +1223,7 @@
     "createdAt": 1775624296902
   },
   "ILOVEYOU": {
-    "usesLeft": 197,
+    "usesLeft": 196,
     "totalDevices": 500,
     "devices": [
       "web-b45y7qdyyi",
@@ -1528,7 +1528,8 @@
       "web-4nyfxsln3j",
       "web-ebqb7mb4u7",
       "web-sfbkw7x3vm",
-      "web-ninevyilxn"
+      "web-ninevyilxn",
+      "web-kgr2kwmq6x"
     ],
     "expireAt": 1775971066515,
     "createdAt": 1775625466515
