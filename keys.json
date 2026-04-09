@@ -1492,8 +1492,10 @@
     "createdAt": 1775663809855
   },
   "huy22": {
-    "devices": [],
-    "usesLeft": 2,
+    "devices": [
+      "web-lpomp1cl5j"
+    ],
+    "usesLeft": 1,
     "totalDevices": 2,
     "expireAt": 4102444800000,
     "createdAt": 1744089000000
