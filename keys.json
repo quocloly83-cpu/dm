@@ -1507,5 +1507,12 @@
     "totalDevices": 400,
     "expireAt": 1744262400000,
     "createdAt": 1744089600000
+  },
+  "huykey": {
+    "usesLeft": 5,
+    "totalDevices": 5,
+    "devices": [],
+    "expireAt": 10415628539540,
+    "createdAt": 1775714939540
   }
 }
