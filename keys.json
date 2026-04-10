@@ -1621,13 +1621,6 @@
     "expireAt": 4102444800000,
     "createdAt": 1744089000000
   },
-  "HFT-OUH5YAE": {
-    "devices": [],
-    "usesLeft": 400,
-    "totalDevices": 400,
-    "expireAt": 1744262400000,
-    "createdAt": 1744089600000
-  },
   "huykey": {
     "usesLeft": 3,
     "totalDevices": 5,
