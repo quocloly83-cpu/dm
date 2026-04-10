@@ -2172,5 +2172,12 @@
     ],
     "expireAt": 1775967630733,
     "createdAt": 1775794830733
+  },
+  "ATH-5U6R-TF93": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 10415747338567,
+    "createdAt": 1775833738597
   }
 }
