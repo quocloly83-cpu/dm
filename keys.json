@@ -2194,9 +2194,11 @@
     "createdAt": 1775836612096
   },
   "OBJ-HUYKEY": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-9381h6slgx"
+    ],
     "expireAt": 1778432282990,
     "createdAt": 1775840282990
   }
