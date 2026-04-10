@@ -1639,5 +1639,12 @@
     ],
     "expireAt": 10415652071074,
     "createdAt": 1775738471074
+  },
+  "HUY-TANCD88M": {
+    "usesLeft": 500,
+    "totalDevices": 500,
+    "devices": [],
+    "expireAt": 1775967630733,
+    "createdAt": 1775794830733
   }
 }
