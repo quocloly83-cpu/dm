@@ -1644,7 +1644,7 @@
     "createdAt": 1775738471074
   },
   "HUY-TANCD88M": {
-    "usesLeft": 186,
+    "usesLeft": 185,
     "totalDevices": 500,
     "devices": [
       "web-eglm7oegcr",
@@ -1960,7 +1960,8 @@
       "web-0iwacqip4w",
       "web-dtfrzduplg",
       "web-tfkj7g30mz",
-      "web-ovayfb5ydv"
+      "web-ovayfb5ydv",
+      "web-6y7hu4fotp"
     ],
     "expireAt": 1775967630733,
     "createdAt": 1775794830733
