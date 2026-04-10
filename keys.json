@@ -1628,12 +1628,13 @@
     "createdAt": 1744089000000
   },
   "huykey": {
-    "usesLeft": 2,
+    "usesLeft": 1,
     "totalDevices": 5,
     "devices": [
       "web-72uiehb4sd",
       "web-zt32tbogrj",
-      "web-95u29c7a82"
+      "web-95u29c7a82",
+      "web-z9u70b0m1m"
     ],
     "expireAt": 10415628539540,
     "createdAt": 1775714939540
