@@ -2182,5 +2182,12 @@
     ],
     "expireAt": 10415747338567,
     "createdAt": 1775833738597
+  },
+  "huynek": {
+    "usesLeft": 1,
+    "totalDevices": 1,
+    "devices": [],
+    "expireAt": 88175750212096,
+    "createdAt": 1775836612096
   }
 }
