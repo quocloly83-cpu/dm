@@ -2184,9 +2184,11 @@
     "createdAt": 1775833738597
   },
   "huynek": {
-    "usesLeft": 1,
+    "usesLeft": 0,
     "totalDevices": 1,
-    "devices": [],
+    "devices": [
+      "web-2t3mi4pk8u"
+    ],
     "expireAt": 88175750212096,
     "createdAt": 1775836612096
   }
